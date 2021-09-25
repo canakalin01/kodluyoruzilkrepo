@@ -8,9 +8,7 @@ dosyası, bir adet de index.html barındırıyor.
 
 Öncelikle projeyi clonelayın.
 
-'''bash
-git clone https://github.com/canakalin01/kodluyoruzilkrepo.git
-'''
+'''bash git clone https://github.com/canakalin01/kodluyoruzilkrepo.git '''
 
 ### Usage
 
@@ -20,7 +18,7 @@ Linux için:
 
 '''linux
 cd kodluyoruzilkrepo
-> code .
+code .
 '''
 ## Contributing
 
