@@ -12,9 +12,7 @@ dosyası, bir adet de index.html barındırıyor.
 git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 ```
 
-```python
-print("Hello World")
-```
+
 
 
 
